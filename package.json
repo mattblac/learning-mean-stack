@@ -1,0 +1,22 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Sample mean stack app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattblack/node-app-mean.git"
+  },
+  "author": "Matt Black",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattblack/node-app-mean/issues"
+  },
+  "homepage": "https://github.com/mattblack/node-app-mean#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}

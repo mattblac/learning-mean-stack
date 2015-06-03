@@ -1,2 +1,2 @@
 # learning-mean-stack
-Using the mean machine ebook to learn the mean stack
+Node + Express with JWT authentication
